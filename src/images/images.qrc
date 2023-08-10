@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="images">
+    <file>yuzu.svg</file>
+    <file>about.svg</file>
+    <file>align left-fill.svg</file>
+    <file>align right-fill.svg</file>
+    <file>align-justify.svg</file>
+    <file>bold.svg</file>
+    <file>center-align-text.svg</file>
+    <file>Color.svg</file>
+    <file>copy-fill.svg</file>
+    <file>cut.svg</file>
+    <file>exit.svg</file>
+    <file>folder-open-fill.svg</file>
+    <file>font.svg</file>
+    <file>images.qrc</file>
+    <file>italic.svg</file>
+    <file>paste.svg</file>
+    <file>pdf.svg</file>
+    <file>plus-square-fill.svg</file>
+    <file>preview.svg</file>
+    <file>print.svg</file>
+    <file>redo.svg</file>
+    <file>save.svg</file>
+    <file>underline.svg</file>
+    <file>undo.svg</file>
+  </qresource>
+</RCC>
